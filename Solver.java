@@ -3,7 +3,7 @@ package com.ssaurel.sudoku;
 public class Sudoku {
 
    
-	// SOURCE: https://medium.com/javarevisited/build-a-sudoku-solver-in-java-part-1-c308bd511481
+	
 	 // PASAMOS EL ARRAY DE INTS 
 	
 	// we check if a possible number is already in a row
